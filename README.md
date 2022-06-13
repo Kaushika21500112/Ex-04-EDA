@@ -225,7 +225,7 @@ sns.heatmap(df.corr(),annot=True)
 
 ![](o43.png)
 
-## graphical representation of data--multivariate 
+## graphical representation of data--multivariate:
 ![](o44.png)
 
 
