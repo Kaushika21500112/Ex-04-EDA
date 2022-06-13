@@ -132,64 +132,97 @@ sns.heatmap(df.corr(),annot=True)
 ## Original Data
 ![](o1.png)
 
-## Data Cleaning Process
+## Data Cleaning:
 ![](o2.png)
 
-## Removing Outliers Process
+## Outlier Removal:
 ![](o3.png)
+
 ![](o4.png)
+
 ![](o5.png)
 
 ## performing data analysis
-## statistical analysis for single data group
+## statistical analysis for single data group (univariate non-graphical):
 ![](o6.png)
+
 ![](o8.png)
+
 ![](o9.png)
+
 ![](o10.png)
+
 ![](o11.png)
+
 ![](o12.png)
+
 ![](o13.png)
-## statistical analysis for two data groups
+## statistical analysis for two data groups (bivariate non-graphical):
 ![](o14.png)
+
 ![](o15.png)
+
 ![](o16.png)
+
 ![](o17.png)
+
 ![](o18.png)
 
-## pairwise correlation of columns in dataset
+## pairwise correlation of columns in dataset (multivariate non-graphical):
 ![](o19.png)
 
-## graphical analysis of categorical data--univariate
+## graphical analysis of categorical data--univariate:
 ![](o20.png)
+
 ![](o21.png)
+
 ![](o22.png)
+
 ![](o26.png)
+
 ![](o23.png)
+
 ![](o24.png)
+
 ![](o25.png)
 
-## graphical analysis of non-categorical data or data with multiple categories--univariate
+## graphical analysis of non-categorical data or data with multiple categories--univariate:
 ![](o27.png)
+
 ![](o28.png)
+
 ![](o29.png)
+
 ![](o30.png)
 
 
-## graphical analysis of categorical data--bivariate
+## graphical analysis of categorical data--bivariate:
 ![](o31.png)
+
 ![](o32.png)
+
 ![](o33.png)
+
 ![](o34.png)
+
 ![](o35.png)
 
-## graphical analysis of non-categorical data or data with multiple categories--bivariate
+
+## graphical analysis of non-categorical data or data with multiple categories--bivariate:
 ![](o36.png)
+
 ![](o37.png)
+
 ![](o38.png)
+
 ![](o39.png)
+
 ![](o40.png)
+
 ![](o41.png)
+
 ![](o42.png)
+
 ![](o43.png)
 
 ## graphical representation of data--multivariate 
